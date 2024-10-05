@@ -1,0 +1,52 @@
+.aic-events-card {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	margin: 0 auto 40px;
+	padding: 15px;
+}
+
+.aic-events-card .title {
+	font-size: 22px;
+	margin: 0;
+}
+
+@media screen and (min-width: 600px) {
+	.aic-events-card .title {
+		font-size: 24px;
+		margin: 0;
+	}
+}
+
+.aic-events-card .desc {
+	color: #333;
+}
+
+.aic-events-card .date {
+	color: #444;
+	font-size: 13px;
+}
+
+.aic-events-card .link-wrap {
+	margin-bottom: 10px;
+}
+
+@media screen and (min-width: 600px) {
+	.aic-events-card .link-wrap {
+		text-align: right;
+	}
+}
+
+.aic-events-card .link {
+	background-color: #b50938;
+	border-radius: 4px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	padding: 8px 15px;
+	text-decoration: none;
+}
+
+.aic-events-card .link:hover, .aic-events-card .link:active {
+	background-color: #a30832;
+}
