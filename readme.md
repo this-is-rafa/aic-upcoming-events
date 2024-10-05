@@ -25,4 +25,4 @@ The plugin will create a custom post type named 'PAMM Posts' when activated, and
 
 ###Screenshots
 
-![AIC events displayed in post](screenshot.jpg?raw=true)
+![AIC events displayed in post](./creenshot.png)
