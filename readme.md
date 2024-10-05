@@ -1,14 +1,4 @@
 ## AIC Upcoming Events
-Plugin Name: AIC Upcoming Events Block Plugin
-Description: Display the next 5 events from the AIC in a block.
-Author: Rafa
-Requires at least: 6.6
-Requires PHP:      7.2
-Version:           0.1.0
-Author:            Rafa
-License:           GPL-2.0-or-later
-License URI:       https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain:       aic-upcoming-events
 
 ### Description
 
